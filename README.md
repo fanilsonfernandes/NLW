@@ -1,6 +1,9 @@
 
 # NLW eSportes-Trilha Explorar
 
+
+![Preview][./.github/preview.png]
+
 Projecto construido do evento Next Level Week da Rocketseat
 
 [🖇️🔗️Clique aqui para acessar]
